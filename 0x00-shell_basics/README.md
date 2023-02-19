@@ -1,1 +1,1 @@
-Bash scripting cd -
+ls -al . ..
