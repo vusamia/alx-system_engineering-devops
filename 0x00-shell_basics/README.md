@@ -1,1 +1,1 @@
-Bash scripting file
+Bash scripting ln -s
