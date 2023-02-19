@@ -1,1 +1,1 @@
-Bash scripting ls -l correction
+Display contents in long format including hidden files
