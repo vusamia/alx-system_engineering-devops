@@ -1,1 +1,1 @@
-Bash scripting mv
+Bash scripting rm
