@@ -1,1 +1,1 @@
-Bash scripting rm -r
+Bash scripting cd -
