@@ -1,1 +1,1 @@
-Bash scripting
+Bash scripting ls -l correction
