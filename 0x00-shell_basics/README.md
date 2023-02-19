@@ -1,1 +1,1 @@
-Prints the absolute path name
+Bash script ls
