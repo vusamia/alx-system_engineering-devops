@@ -1,1 +1,1 @@
-ls -al . ..
+Bash scripting file
