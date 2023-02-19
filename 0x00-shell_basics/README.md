@@ -1,1 +1,1 @@
-Bash script ls
+Bash scripting c~
